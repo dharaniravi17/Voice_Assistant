@@ -1,0 +1,9 @@
+flask
+flask-cors
+pyttsx3
+google-generativeai
+python-dotenv
+SpeechRecognition
+pyaudio
+python-dotenv
+openai

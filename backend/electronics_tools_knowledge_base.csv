@@ -1,0 +1,51 @@
+question,answer
+What is a multimeter used for?,"A multimeter is used to measure voltage, current, and resistance."
+How does an oscilloscope work?,An oscilloscope displays electrical signals as waveforms for analysis.
+What is the function of a soldering iron?,A soldering iron is used to join electronic components using solder.
+What is a breadboard used for?,A breadboard is used to build and test temporary circuits without soldering.
+How do you measure voltage using a multimeter?,Set the multimeter to DC voltage mode and place the probes across the component.
+What is the purpose of a function generator?,A function generator produces different types of electrical waveforms for testing circuits.
+How does a power supply unit work?,A power supply converts electrical energy to the desired voltage and current.
+What is the use of a transistor tester?,A transistor tester checks if a transistor is working properly.
+How do you check a capacitor's value?,You can use a multimeter with a capacitance mode to measure the capacitor's value.
+What safety precautions should be taken while using a soldering iron?,"Wear safety gloves, use a heat-resistant pad, and ensure proper ventilation."
+What is the difference between AC and DC voltage?,"AC voltage changes polarity, while DC voltage remains constant."
+How does a logic analyzer work?,A logic analyzer captures and analyzes digital signals in a circuit.
+What is the role of a signal generator?,A signal generator produces various waveforms for electronic testing.
+What is the use of a frequency counter?,A frequency counter measures the frequency of a signal.
+How do you test a diode using a multimeter?,Set the multimeter to diode mode and measure the voltage drop.
+What is the importance of an ESD mat?,An ESD mat prevents static discharge from damaging electronic components.
+How do you use an LCR meter?,"An LCR meter measures inductance, capacitance, and resistance."
+What is the purpose of a function generator in circuit testing?,A function generator helps simulate input signals for circuit testing.
+How do you test a relay using a multimeter?,A relay can be tested by measuring coil resistance and switch continuity.
+What is the function of a variable resistor?,A variable resistor controls current flow by changing resistance.
+What is the difference between a potentiometer and a rheostat?,"A potentiometer is used for variable voltage, while a rheostat controls current."
+What is the purpose of an isolation transformer?,An isolation transformer protects from electric shocks and isolates circuits.
+How does a clamp meter measure current?,A clamp meter measures current by detecting electromagnetic fields.
+What is the function of a waveform generator?,A waveform generator produces electrical signals of varying frequencies.
+What are the common types of soldering techniques?,"Common soldering techniques include through-hole, surface-mount, and reflow soldering."
+How do you desolder a component from a circuit board?,Desoldering can be done using a soldering pump or desoldering wick.
+What is the purpose of an ammeter?,An ammeter measures the amount of current flowing in a circuit.
+How do you calibrate a voltmeter?,A voltmeter is calibrated using a reference voltage source.
+What is the function of a wattmeter?,A wattmeter measures electrical power in a circuit.
+How do you identify the polarity of a capacitor?,Check the capacitor’s longer leg (positive) or look for polarity markings.
+What is the function of a power analyzer?,A power analyzer evaluates electrical efficiency and power quality.
+What is the use of an in-circuit tester?,An in-circuit tester checks the functioning of components in a circuit.
+How does an electronic load tester work?,An electronic load tester tests power supplies and batteries under different loads.
+How do you check continuity in a circuit?,Use a continuity tester or a multimeter’s continuity mode.
+What is the difference between a digital and an analog multimeter?,Digital multimeters provide more accuracy and features than analog ones.
+What is the use of a thermocouple in electronics?,A thermocouple measures temperature using voltage variation.
+What is the function of an electrometer?,An electrometer measures very low currents and voltages.
+How does an induction heater work?,An induction heater uses electromagnetic fields to heat conductive materials.
+What is the purpose of an isolation amplifier?,An isolation amplifier prevents noise and interference in signals.
+How do you measure resistance using a multimeter?,Set the multimeter to resistance mode and place probes across the resistor.
+What is the function of a differential probe?,A differential probe measures high-voltage signals in circuits.
+How do you test an SCR (Silicon Controlled Rectifier)?,An SCR can be tested using a multimeter in diode mode.
+What is the role of a transistor curve tracer?,A transistor curve tracer plots voltage and current characteristics of transistors.
+How does a digital storage oscilloscope differ from an analog oscilloscope?,"A digital oscilloscope stores waveforms, whereas an analog oscilloscope displays them in real-time."
+What is a spectrum analyzer used for?,A spectrum analyzer measures frequency components of signals.
+What are the advantages of a clamp meter over a standard ammeter?,Clamp meters are non-invasive and measure current without breaking the circuit.
+What is a function of a signal tracer?,A signal tracer detects faulty components in a circuit.
+How do you test a transformer?,A transformer can be tested using a multimeter to check windings.
+What is the purpose of a distortion analyzer?,A distortion analyzer measures signal distortion in audio equipment.
+What are the types of probes used in oscilloscopes?,"Common oscilloscope probes include passive, active, and differential probes."
